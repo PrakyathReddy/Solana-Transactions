@@ -1,3 +1,5 @@
 # Transactions-and-Fees
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Metacrafters/Transactions-and-Fees)
+Find the index.js file to understand the code.
+Here a keypair is generated using the web3.js library for the from and to accounts.
+We airdrop some sol into the source account. Then transfer some of it to the 'to' account.
